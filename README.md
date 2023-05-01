@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang Proyek
 
-Membuat Catatan Keuangan Pribadi, plus Report (Laporan) dan Grafik Otomatis dengan menggunakan Microsoft Excel
+Membuat Catatan Keuangan Pribadi, plus Report (Laporan) dan Grafik Otomatis dengan menggunakan Microsoft Excel. Juga dapat digunakan untuk Catatan Keuangan Rumah Tangga.
 
 ### Dibuat Dengan
 
