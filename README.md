@@ -14,7 +14,7 @@ File ini dibuat dengan Microsoft Excel 365 for Windows 11.
 <!-- GETTING STARTED -->
 ## Memulai 
 
-1.	Siapkan dulu COA-nya, sesuai kebutuhan
+1.	Siapkan dulu COA-nya, sesuai kebutuhan. COA = Chart of Account / Daftar Akun.
 2.	Input Data: 2.a. Harian / Mingguan: pada akun-akun Kas Tunai, Tabungan, Giro, Utang, KK; 2.b. Akhir bulan: pada Aset-Liabilitas Bulanan
 3.	Lihat hasilnya: 3.a. Laporan (Report); 3.b. Grafik (Chart)
 
