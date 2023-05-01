@@ -25,7 +25,7 @@ Sebelum menggunakan file ini, Anda harus memiliki Microsoft Excel 365.
 ## Fitur
 
 1. Input Data
-- Harian / Mingguan: Akun: Kas Tunai, AkuTabungan Bank-0001, Tabungan Bank-0002, Tabungan Bank-0003, Tabungan Bank-0004, Tabungan Bank-0005, Tabungan Bank-0006, Tabungan Bank-0007, Tabungan Bank-0008, Giro Bank-0009, Utang KK Bank-0001, Utang KK Bank-0002, Utang KK Bank-0003, Utang KK Bank-0004, Utang KK Bank-0005
+- Harian / Mingguan: Akun: Kas Tunai, Tabungan Bank-0001, Tabungan Bank-0002, Tabungan Bank-0003, Tabungan Bank-0004, Tabungan Bank-0005, Tabungan Bank-0006, Tabungan Bank-0007, Tabungan Bank-0008, Giro Bank-0009, Utang KK Bank-0001, Utang KK Bank-0002, Utang KK Bank-0003, Utang KK Bank-0004, Utang KK Bank-0005
 - Akhir Bulan: Aset-Liabilitas Bulanan
 - Sesekali / Seperlunya: Chart of Account (COA) / Daftar Akun
 2. Laporan (Report):
