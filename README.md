@@ -22,7 +22,7 @@ Sebelum menggunakan file pada proyek ini, Anda harus memiliki Microsoft Excel 36
 2.	Input Data: 2.a. Harian / Mingguan: pada akun-akun Kas Tunai, Tabungan, Giro, Utang, KK; 2.b. Akhir bulan: pada Aset-Liabilitas Bulanan
 3.	Lihat hasilnya: 3.a. Laporan (Report); 3.b. Grafik (Chart)
 
-## Video Tutorial:
+## Video Tutorial Penggunaan:
 
 https://youtu.be/owl8-_zu2W4
 
