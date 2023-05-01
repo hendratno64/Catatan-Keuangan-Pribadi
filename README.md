@@ -24,17 +24,49 @@ Sebelum menggunakan file ini, Anda harus memiliki Microsoft Excel 365.
 
 ## Fitur
 
-1. Input Data
-- Harian / Mingguan: Akun: Kas Tunai, Tabungan Bank-0001, Tabungan Bank-0002, Tabungan Bank-0003, Tabungan Bank-0004, Tabungan Bank-0005, Tabungan Bank-0006, Tabungan Bank-0007, Tabungan Bank-0008, Giro Bank-0009, Utang KK Bank-0001, Utang KK Bank-0002, Utang KK Bank-0003, Utang KK Bank-0004, Utang KK Bank-0005
-- Akhir Bulan: Aset-Liabilitas Bulanan
-- Sesekali / Seperlunya: Chart of Account (COA) / Daftar Akun
-2. Laporan (Report):
-- Arus Kas (Cashflow)
-- Neraca (Balance Sheet)	
-- Budget vs Realisasi (masih Experiment)	
-3. Grafik (Chart):
-- Grafik Laporan: Laba-Rugi, Cashflow Bulanan, Cashflow Full, 10 Pengeluaran Terbesar, 10 Entitas Penerima Pengeluaran Terbesar, Pendapatan, Pengeluaran, Pendapatan vs Pengeluaran, Arus Utang Kartu Kredit (KK) Bulanan, Neraca (Balance Sheet), Perubahan Aset dan Liabilitas, Pertambahan/Pengurangan Kekayaan, Alokasi Dana
-- Grafik Akun	
+A. Input Data:
+   1. Harian / Mingguan:
+      - Akun Kas Tunai
+      - Akun Tabungan Bank-0001
+      - Akun Tabungan Bank-0002
+      - Akun Tabungan Bank-0003
+      - Akun Tabungan Bank-0004
+      - Akun Tabungan Bank-0005
+      - Akun Tabungan Bank-0006
+      - Akun Tabungan Bank-0007
+      - Akun Tabungan Bank-0008
+      - Akun Giro Bank-0009
+      - Akun Utang KK Bank-0001
+      - Akun Utang KK Bank-0002
+      - Akun Utang KK Bank-0003
+      - Akun Utang KK Bank-0004
+      - Akun Utang KK Bank-0005
+   2. Akhir Bulan:
+      - Aset-Liabilitas Bulanan
+   3. Sesekali / Seperlunya:
+      - Chart of Account (COA) / Daftar Akun
+
+B. Laporan (Report):
+   1. Arus Kas (Cashflow)
+   2. Neraca (Balance Sheet)
+   3. Budget vs Realisasi (masih Experiment)
+
+C. Grafik (Chart):
+   1. Grafik Laporan:
+      - Laba-Rugi
+      - Cashflow Bulanan
+      - Cashflow Full
+      - 10 Pengeluaran Terbesar
+      - 10 Entitas Penerima Pengeluaran Terbesar
+      - Pendapatan
+      - Pengeluaran
+      - Pendapatan vs Pengeluaran
+      - Arus Utang Kartu Kredit (KK) Bulanan
+      - Neraca (Balance Sheet)
+      - Perubahan Aset dan Liabilitas
+      - Pertambahan/Pengurangan Kekayaan
+      - Alokasi Dana
+   2. Grafik Akun	
 
 <!-- CONTACT -->
 ## Kontak
